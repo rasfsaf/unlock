@@ -809,7 +809,7 @@ fn main() {
         show_admin_prewarning();
     }
 
-    login_screen();
+    // login_screen();
 
     loop {
         clear_screen();

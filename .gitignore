@@ -1,0 +1,9 @@
+/target/
+unlock_log.txt
+*.log
+__pycache__/
+*.pyc
+*.pyo
+.secrets.json
+.vscode/
+.idea/
